@@ -1,4 +1,4 @@
-# go-libp2p-gostream
+# libp2p-go-stream
 
 [![Build Status](https://travis-ci.org/libp2p/go-libp2p-gostream.svg?branch=master)](https://travis-ci.org/libp2p/go-libp2p-gostream)
 [![codecov](https://codecov.io/gh/libp2p/go-libp2p-gostream/branch/master/graph/badge.svg)](https://codecov.io/gh/libp2p/go-libp2p-gostream)

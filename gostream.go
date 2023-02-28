@@ -11,7 +11,7 @@
 //
 // Note that LibP2P hosts cannot dial to themselves, so there is no possibility
 // of using the same Host as server and as client.
-package gostream
+package stream
 
 // Network is the "net.Addr.Network()" name returned by
 // addresses used by gostream connections. In turn, the "net.Addr.String()" will

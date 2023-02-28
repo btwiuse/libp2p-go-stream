@@ -1,12 +1,12 @@
-package gostream
+package stream
 
 import (
 	"context"
 	"net"
 
-	"github.com/libp2p/go-libp2p/core/host"
-	"github.com/libp2p/go-libp2p/core/network"
-	"github.com/libp2p/go-libp2p/core/protocol"
+	"github.com/webtransport/libp2p-go/core/host"
+	"github.com/webtransport/libp2p-go/core/network"
+	"github.com/webtransport/libp2p-go/core/protocol"
 )
 
 // listener is an implementation of net.Listener which handles
